@@ -48,4 +48,4 @@ Amanda Alonzo
 
 ## Acknowledgements
 
-* Indiana University, Usable AI Final Project professor, TAs and students
+* Indiana University, Usable AI course professor Filipi Silva, TAs Vatsal Vinay Parikh, Keyur Parekh, Ayantika Nandi, and students
