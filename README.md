@@ -1,37 +1,28 @@
 # Project Title
 
-Simple overview of use/purpose.
+Homeless Encampment Service Requests in Los Angeles, 2019-2024
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+Final project for Usable AI, Indiana University
 
 ## Getting Started
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* Python environment
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+* To start from beginning with source data, load each file linked below to "Dataraw" folder (not provided on GitHub due large file size)
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
+* Run Jupyter notebooks in order of numeric prefix, eg. 0_ (optional), 1_, 2_, etc.
 
 ## Help
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+* 
 
 ## Authors
 
@@ -55,7 +46,6 @@ Amanda Alonzo
 * 2023: https://data.lacity.org/City-Infrastructure-Service-Requests/MyLA311-Service-Request-Data-2023/4a4x-mna2/about_data
 * 2024: https://data.lacity.org/City-Infrastructure-Service-Requests/MyLA311-Service-Request-Data-2024/b7dx-7gc3/about_data
 
-## About
+## Acknowledgements
 
-* Indiana University, Usable AI Final Project
-* Homeless Encampment Service Requests in Los Angeles
+* Indiana University, Usable AI Final Project professor, TAs and students
