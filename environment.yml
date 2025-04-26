@@ -213,4 +213,21 @@ dependencies:
   - zipp=3.21.0=pyhd8ed1ab_1
   - zstandard=0.23.0=py39ha55e580_1
   - zstd=1.5.7=hbeecb71_1
+  - pip:
+      - affine==2.4.0
+      - branca==0.8.1
+      - click==8.1.8
+      - click-plugins==1.1.1
+      - cligj==0.7.2
+      - contextily==1.6.2
+      - folium==0.19.5
+      - geographiclib==2.0
+      - geopandas==1.0.1
+      - geopy==2.4.1
+      - mercantile==1.2.1
+      - pyogrio==0.10.0
+      - pyproj==3.6.1
+      - rasterio==1.4.3
+      - shapely==2.0.7
+      - xyzservices==2025.4.0
 prefix: C:\Users\amand\miniforge3\envs\usable_ai_project
